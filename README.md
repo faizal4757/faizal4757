@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faizal4757
+- 👋 Hi, I’m Faizal Ahmed
 - 👀 I’m an expert in handling large volumnes of data for analytics
 - 🌱 I’m currently ***
 - 💞️ I’m looking to *** 
