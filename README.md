@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faizal4757
-- 👀 I’m interested in learning tech
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning 
+- 👀 I’m an expert in handling large volumnes of data for analytics
+- 🌱 I’m currently ***
+- 💞️ I’m looking to *** 
 - 📫 How to reach me faizalahmedmotog3@gmail.com
 
 <!---
