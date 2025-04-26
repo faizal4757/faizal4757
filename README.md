@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faizal Ahmed
 - 👀 I’m an expert in handling large volumnes of data for analytics
-- 🌱 I’m currently ***
-- 💞️ I’m looking to *** 
+- 🌱 I’m currently working on building analytics solution for franklin templeton AMC
+- 💞️ I’m looking to interact with anyone who wants to connect and share knowledge
 - 📫 How to reach me faizalahmedmotog3@gmail.com
 
 <!---
